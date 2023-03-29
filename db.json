@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12111917a.webp",
+      "title": "Ed-a-Mamma Sustainable Cotton Knit Full Sleeves Tie Dye Embossed Sweatshirt - Green",
+      "mrp": "1149",
+      "price": "907",
+      "color": "9adac9",
+      "totimg": "3",
+      "brand": "Angel & Rocket",
+      "gender": "Boy",
+      "category": "T-shirts",
+      "id": 1
+    }
+  ],
+  "user": [
+    {
+      "name": "Salil Upadhyay",
+      "email": "xyz@mail.com",
+      "password": "password",
+      "mobile": "9876543210",
+      "id": 1
+    }
+  ],
+  "admin": [
+    {
+      "name": "Salil Upadhyay",
+      "email": "xyz@mail.com",
+      "password": "password",
+      "mobile": "9876543210",
+      "id": 1
+    }
+  ]
+}

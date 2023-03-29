@@ -1,0 +1,27 @@
+{
+  "name": "american-eagle-mock-server",
+  "version": "1.0.0",
+  "description": "Mock server for performing CRUD operaations and SIGN IN Functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salil-01/american-eagle-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salil-01/american-eagle-mock-server/issues"
+  },
+  "homepage": "https://github.com/salil-01/american-eagle-mock-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3",
+    "server": "^1.0.38"
+  }
+}
