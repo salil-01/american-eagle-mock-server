@@ -193,8 +193,7 @@
       "regular-price": "1,999"
     }
   ],
-
-  "womens": [
+  "women": [
     {
       "id": 25,
       "col-md-3 href": "https://www.aeo.in/product/american-eagle-women-purple-next-level-super-high-waisted-flare-jean-868738.html",
@@ -258,9 +257,7 @@
       "product-image-reverse src": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "product--name": "American Eagle Men Blue Trekker Jogger",
       "regular-price": "3,499"
-    }
-  ],
-  "women": [
+    },
     {
       "id": 33,
       "col-md-3 href": "https://www.aeo.in/product/american-eagle-women-cream-easy-cinched-waist-printed-jumpsuit-860338.html",
