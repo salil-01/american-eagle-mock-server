@@ -8,9 +8,10 @@
       "title": "American Eagle Men Blue Micro Dot Button-Up Resort Shirt",
       "price": 2299,
       "type": "shirt",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 2,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-slim-fit-everyday-button-up-shirt-871193.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/871193-10376800.jpg?w=312&auto=format",
@@ -18,9 +19,10 @@
       "title": "American Eagle Men Blue Slim Fit Everyday Button-Up  Shirt",
       "price": 2999,
       "type": "shirt",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 3,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-green-slim-fit-everyday-buttonup-shirt-870112.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/870112-10410816.jpg?w=312&auto=format",
@@ -28,9 +30,10 @@
       "title": "American Eagle Men Green Slim Fit Everyday Button-Up Shirt",
       "price": 2799,
       "type": "shirt",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 4,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-pink-slim-fit-everyday-button-up-shirt-870110.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/870110-10347815.jpg?w=312&auto=format",
@@ -38,19 +41,21 @@
       "title": "American Eagle Men Pink Slim Fit Everyday Button-Up Shirt",
       "price": 2799,
       "type": "shirt",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 5,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-slim-fit-everyday-button-up-shirt-870105.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/870105-10410805.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/product/8/870105-10410806.jpg?w=312&auto=format",
       "title": "American Eagle Men Blue Slim Fit Everyday Button-Up Shirt",
-      "price": 2799,
+      "price": 3299,
       "type": "shirt",
+      "brand": "Nike",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 6,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-slim-fit-everyday-button-up-shirt-870104.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/870104-10347780.jpg?w=312&auto=format",
@@ -58,19 +63,21 @@
       "title": "American Eagle Men Blue Slim Fit Everyday Button-Up Shirt",
       "price": 2799,
       "type": "shirt",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 7,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-green-slim-fit-everyday-button-up-shirt-870103.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/870103-10410794.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Green Slim Fit Everyday Button-Up Shirt",
-      "price": 2799,
+      "price": 3799,
       "type": "shirt",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 8,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-pink-slim-fit-everyday-button-up-shirt-870102.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/870102-10347033.jpg?w=312&auto=format",
@@ -78,9 +85,10 @@
       "title": "American Eagle Men Pink Slim Fit Everyday Button-Up Shirt",
       "price": 2799,
       "type": "shirt",
+      "brand": "Nike",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 9,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-pink-flex-9-inches-lived-in-khaki-short-868676.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/868676-10316576.jpg?w=312&auto=format",
@@ -88,39 +96,43 @@
       "title": "American Eagle Men Pink Flex 9 Inches Lived-In Khaki Short",
       "price": 2999,
       "type": "short",
+      "brand": "Nike",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 10,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-flex-9-inches-lived-in-khaki-short-868662.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/868662-10345993.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Blue Flex 9 Inches Lived-In Khaki Short",
-      "price": 2999,
+      "price": 999,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 11,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-flex-9-inches-lived-in-khaki-short-868660.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/868660-10316467.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Grey Flex 9 Inches Lived-In Khaki Short",
-      "price": 2999,
+      "price": 899,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 12,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-dip-dye-button-up-resort-shirt-864100.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/864100-10215053.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/product/8/864100-10215054.jpg?w=312&auto=format",
       "title": "American Eagle Men Blue Dip Dye Button-Up Resort Shirt",
-      "price": 2599,
+      "price": 1199,
       "type": "short",
+      "brand": "Puma",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 13,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-red-hearts-stretch-boxer-short-862722.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862722-10291586.jpg?w=312&auto=format",
@@ -128,9 +140,10 @@
       "title": "American Eagle Men Red Hearts Stretch Boxer Short",
       "price": 1299,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 14,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-green-tropical-6-inches-flex-boxer-brief-862721.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862721-10196424.jpg?w=312&auto=format",
@@ -138,9 +151,10 @@
       "title": "American Eagle Men Green Tropical 6 Inches Flex Boxer Brief",
       "price": 899,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 15,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-green-saint-pattys-6-inches-flex-boxer-brief-862718.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862718-10196399.jpg?w=312&auto=format",
@@ -148,9 +162,10 @@
       "title": "American Eagle Men Green Saint Pattys 6 Inches Flex Boxer Brief",
       "price": 700,
       "type": "short",
+      "brand": "Puma",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 16,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-black-eggplant-splash-6-inches-flex-boxer-brief-862705.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862705-10196322.jpg?w=312&auto=format",
@@ -158,9 +173,10 @@
       "title": "American Eagle Men Black Eggplant Splash 6 Inches Flex Boxer Brief",
       "price": 798,
       "type": "short",
+      "brand": "Nike",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 17,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-black-jungle-tiger-6-inches-flex-boxer-brief-862692.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862692-10196231.jpg?w=312&auto=format",
@@ -168,9 +184,10 @@
       "title": "American Eagle Men Black Jungle Tiger 6 Inches Flex Boxer Brief",
       "price": 679,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 18,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-giraffe-6-inches-flex-boxer-brief-862636.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862636-10195288.jpg?w=312&auto=format",
@@ -178,9 +195,10 @@
       "title": "American Eagle Men Blue Giraffe 6 Inches Flex Boxer Brief",
       "price": 1179,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 19,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-yellow-cereal-6-inches-flex-boxer-brief-862634.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862634-10195277.jpg?w=312&auto=format",
@@ -188,9 +206,10 @@
       "title": "American Eagle Men Yellow Cereal 6 Inches Flex Boxer Brief",
       "price": 979,
       "type": "short",
+      "brand": "Puma",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 20,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-black-gold-money-6-inches-flex-boxer-brief-862591.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862591-10195041.jpg?w=312&auto=format",
@@ -198,9 +217,10 @@
       "title": "American Eagle Men Black Gold Money 6 Inches Flex Boxer Brief",
       "price": 879,
       "type": "short",
+      "brand": "Puma",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 21,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-green-shadow-eagles-6-inches-flex-boxer-brief-862576.html",
       "image_front": "https://imagescdn.aeo.in/img/app/product/8/862576-10194926.jpg?w=312&auto=format",
@@ -208,9 +228,10 @@
       "title": "American Eagle Men Green Shadow Eagles 6 Inches Flex Boxer Brief",
       "price": 679,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
+      },
+      {
       "id": 22,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-black-deep-space-6-inches-flex-boxer-brief-862571.html",
       "image_front": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
@@ -218,28 +239,90 @@
       "title": "American Eagle Men Black Deep Space 6 Inches Flex Boxer Brief",
       "price": 799,
       "type": "short",
+      "brand": "Adidas",
       "category": "mens"
-    },
-    {
-      "id": 23,
-      "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
-      "image_front": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-      "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-      "title": "American Eagle Men Blue AirFlex+ 9 Inches Denim Short",
-      "price": 2999,
-      "type": "short",
-      "category": "mens"
-    },
-    {
+      },
+      {
+        "id": 23,
+        "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
+        "image_front": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
+        "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
+        "title": "American Eagle Men Grey 24/7 Good Vibes Long-Sleeve Graphic T-Shirt",
+        "price": 1999,
+        "type": "tshirt",
+        "brand": "Puma",
+        "category": "mens"
+      },
+      {
       "id": 24,
-      "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
-      "image_front": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-      "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-      "title": "American Eagle Men Grey 24/7 Good Vibes Long-Sleeve Graphic T-Shirt",
-      "price": 1999,
-      "type": "tshirt",
+      "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
+      "image_front": "https://static.nike.com/a/images/t_default/e839f55c-84d5-4030-9bcf-644e6a6463ea/revolution-6-running-shoes-5k6Jh6.png",
+      "title": "American Eagle Men Red AirFlex+ 9 Inches Shoes",
+      "price": 4999,
+      "type": "shoes",
+      "brand": "Nike",
       "category": "mens"
-    }
+      },
+      {
+        "id": 25,
+        "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
+        "image_front": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title": "American Eagle Men Red AirFlex+ 9 Inches Shoes",
+        "price": 6999,
+        "type": "shoes",
+        "brand": "Nike",
+        "category": "mens"
+        },
+        {
+          "id": 26,
+          "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
+          "image_front": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/l/u/c/10-8050-black-red-waan-black-red-original-imag5psezyhhwwks-bb.jpeg?q=70",
+          "title": "American Eagle Men white AirFlex+ 9 Inches Shoes",
+          "price": 4999,
+          "type": "shoes",
+          "brand": "Puma",
+          "category": "mens"
+        },
+        {
+          "id": 27,
+          "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
+          "image_front": "https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg",
+          "title": "American Eagle Men Blue AirFlex+ 9 Inches Shoes",
+          "price": 3999,
+          "type": "shoes",
+          "brand": "Puma",
+          "category": "mens"
+        },
+        {
+          "id": 28,
+          "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
+          "image_front": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61D8gunwafL._UL1100_.jpg",
+          "title": "American Eagle Men Grey AirFlex+ 9 Inches Shoes",
+          "price": 4999,
+          "type": "shoes",
+          "brand": "Campus",
+          "category": "mens"
+        },
+        {
+          "id": 29,
+          "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
+          "image_front": "https://www.rei.com/dam/content_team_010818_52427_htc_running_shoes_hero2_lg.jpg?t=ea16by9xs",
+          "title": "American Eagle Men Red AirFlex+ 9 Inches Shoes",
+          "price": 5999,
+          "type": "shoes",
+          "brand": "Campus",
+          "category": "mens"
+        },
+        {
+          "id": 30,
+          "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
+          "image_front": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/b/i/9/-original-imagg7t2vgaab4wp.jpeg?q=70",
+          "title": "American Eagle Men Blue AirFlex+ 9 Inches Shoes",
+          "price": 5999,
+          "type": "shoes",
+          "brand": "Campus",
+          "category": "mens"
+        }
   ],
   "women": [
     {
@@ -450,8 +533,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/797778-9710187.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/product/7/797778-9710188.jpg?w=312&auto=format",
       "title": "American Eagle Women Cream Printed Sherpa Anorak Sweatshirt",
-      "actual-price": 4999,
-      "discount-price": 3499
+      "actual_price": 4999,
+      "discount_price": 3499
     },
     {
       "id": 50,
@@ -459,8 +542,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/793139-9378620.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/product/7/793139-9378621.jpg?w=312&auto=format",
       "title": "American Eagle Men Navy Colorblock T-Shirt",
-      "actual-price": 1799,
-      "discount-price": 1259
+      "actual_price": 1799,
+      "discount_price": 1259
     },
     {
       "id": 51,
@@ -468,8 +551,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/793138-9378609.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/product/7/793138-9378610.jpg?w=312&auto=format",
       "title": "American Eagle Men Grey Colorblock T-Shirt",
-      "actual-price": 1799,
-      "discount-price": 1259
+      "actual_price": 1799,
+      "discount_price": 1259
     },
     {
       "id": 52,
@@ -477,8 +560,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/793137-9378598.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men White Colorblock T-Shirt",
-      "actual-price": 1799,
-      "discount-price": 1259
+      "actual_price": 1799,
+      "discount_price": 1259
     },
     {
       "id": 53,
@@ -486,8 +569,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/793131-9307404.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Burgundy Cozy Cabin Flannel",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 54,
@@ -495,8 +578,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/787911-9430302.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Brown Workwear Shacket",
-      "actual-price": 7999,
-      "discount-price": 5599
+      "actual_price": 7999,
+      "discount_price": 5599
     },
     {
       "id": 55,
@@ -504,8 +587,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/782076-9309479.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Women Green Perforated Leather Belt",
-      "actual-price": 1999,
-      "discount-price": 1399
+      "actual_price": 1999,
+      "discount_price": 1399
     },
     {
       "id": 56,
@@ -513,8 +596,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/781826-9198878.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Pink FIFA World Cup Crew Neck Sweatshirt",
-      "actual-price": 4599,
-      "discount-price": 2759
+      "actual_price": 4599,
+      "discount_price": 2759
     },
     {
       "id": 57,
@@ -522,8 +605,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779986-9586667.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men White Super Soft Hooded Flannel Shirt",
-      "actual-price": 3499,
-      "discount-price": 2624
+      "actual_price": 3499,
+      "discount_price": 2624
     },
     {
       "id": 58,
@@ -531,8 +614,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779985-9430555.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Blue Super Soft Hooded Flannel Shirt",
-      "actual-price": 3499,
-      "discount-price": 2624
+      "actual_price": 3499,
+      "discount_price": 2624
     },
     {
       "id": 59,
@@ -540,8 +623,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779978-9586634.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Pink Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 60,
@@ -549,8 +632,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779835-9504840.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Blue Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 61,
@@ -558,8 +641,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779833-9525363.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Blue Super Soft Plaid Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 62,
@@ -567,8 +650,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779831-9525352.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Green Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 63,
@@ -576,8 +659,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779829-9586601.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Beige Super Soft Plaid Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 64,
@@ -585,8 +668,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779828-9030217.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Brown Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 65,
@@ -594,8 +677,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779827-9586590.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men White Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 66,
@@ -603,8 +686,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779826-9504807.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men White Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 67,
@@ -612,8 +695,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/779824-9504791.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Black Super Soft Flannel Shirt",
-      "actual-price": 3299,
-      "discount-price": 2474
+      "actual_price": 3299,
+      "discount_price": 2474
     },
     {
       "id": 68,
@@ -621,8 +704,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/778977-9586777.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Green Graphic Zip-Up Hoodie",
-      "actual-price": 3699,
-      "discount-price": 2589
+      "actual_price": 3699,
+      "discount_price": 2589
     },
     {
       "id": 69,
@@ -630,8 +713,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/778974-9505071.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Beige Graphic Zip-Up Hoodie",
-      "actual-price": 3699,
-      "discount-price": 2589
+      "actual_price": 3699,
+      "discount_price": 2589
     },
     {
       "id": 70,
@@ -639,8 +722,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/778966-9522713.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Blue Super Soft Hooded Flannel Shirt",
-      "actual-price": 3499,
-      "discount-price": 2449
+      "actual_price": 3499,
+      "discount_price": 2449
     },
     {
       "id": 71,
@@ -648,8 +731,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/778945-9522680.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Men Brown Workwear Jacket",
-      "actual-price": 8999,
-      "discount-price": 6299
+      "actual_price": 8999,
+      "discount_price": 6299
     },
     {
       "id": 72,
@@ -657,8 +740,8 @@
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/778942-9430280.jpg?w=312&auto=format",
       "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
       "title": "American Eagle Women Red 90s Boyfriend Oversized Corduroy Jacket",
-      "actual-price": 5999,
-      "discount-price": 3599
+      "actual_price": 5999,
+      "discount_price": 3599
     }
   ],
   "user": [
