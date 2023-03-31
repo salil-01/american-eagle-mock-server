@@ -751,8 +751,37 @@
       "password": "password",
       "mobile": "9876543210",
       "id": 1
+    },
+    {
+      "name": "Saurav Bharadwaj",
+      "email": "random@mail.com",
+      "password": "password",
+      "mobile": "9876543210",
+      "id": 2
+    },
+    {
+      "name": "Jayesh Mate",
+      "email": "random@mail.com",
+      "password": "password",
+      "mobile": "9876543210",
+      "id": 3
+    },
+    {
+      "name": "Saurav Lahiri",
+      "email": "random@mail.com",
+      "password": "password",
+      "mobile": "9876543210",
+      "id": 4
+    },
+    {
+      "name": "Ankit Shae",
+      "email": "random@mail.com",
+      "password": "password",
+      "mobile": "9876543210",
+      "id": 5
     }
   ],
+
   "admin": [
     {
       "name": "Salil Upadhyay",
@@ -760,6 +789,58 @@
       "password": "password",
       "mobile": "9876543210",
       "id": 1
+    }
+  ],
+  "order":[
+    {
+      "id":1,
+      "name":"Ankit Shae",
+      "quantity":3,
+      "title":"American Eagle Men Beige Graphic Zip-Up Hoodie",
+      "price":544,
+      "city":"Jaipur",
+      "created": "3/25/2023, 7:53:34 PM",
+      "status":"pending"
+    },
+    {
+      "id":2,
+      "name":"Ankit Shae",
+      "quantity":3,
+      "title":"American Eagle Men Beige Graphic Zip-Up Hoodie",
+      "price":544,
+      "city":"Jaipur",
+      "created": "3/25/2023, 7:53:34 PM",
+      "status":"pending"
+    },
+    {
+      "id":3,
+      "name":"Ankit Shae",
+      "quantity":3,
+      "title":"American Eagle Men Beige Graphic Zip-Up Hoodie",
+      "price":544,
+      "city":"Jaipur",
+      "created": "3/25/2023, 7:53:34 PM",
+      "status":"pending"
+    },
+    {
+      "id":4,
+      "name":"Ankit Shae",
+      "quantity":3,
+      "title":"American Eagle Men Beige Graphic Zip-Up Hoodie",
+      "price":544,
+      "city":"Jaipur",
+      "created": "3/25/2023, 7:53:34 PM",
+      "status":"pending"
+    },
+    {
+      "id":5,
+      "name":"Ankit Shae",
+      "quantity":3,
+      "title":"American Eagle Men Beige Graphic Zip-Up Hoodie",
+      "price":544,
+      "city":"Jaipur",
+      "created": "3/25/2023, 7:53:34 PM",
+      "status":"pending"
     }
   ]
 }
