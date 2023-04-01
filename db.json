@@ -378,7 +378,7 @@
   "women": [
     {
       "id": 83,
-      "name": "American Eagle Women pink Long-Sleeve Plush Mock Neck Shirt",
+      "title": "American Eagle Women pink Long-Sleeve Plush Mock Neck Shirt",
       "price": 1699,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/736463-9378862.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -387,7 +387,7 @@
     },
     {
       "id": 82,
-      "name": "American Eagle Women Green Plush Hoodie",
+      "title": "American Eagle Women Green Plush Hoodie",
       "price": 2499,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/755501-9378906.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -396,7 +396,7 @@
     },
     {
       "id": 81,
-      "name": "American Eagle Women Grey Plush Hoodie",
+      "title": "American Eagle Women Grey Plush Hoodie",
       "price": 2499,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/755503-9378928.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -405,7 +405,7 @@
     },
     {
       "id": 80,
-      "name": "American Eagle Women Yellow Long-Sleeve Patchwork T-Shirt",
+      "title": "American Eagle Women Yellow Long-Sleeve Patchwork T-Shirt",
       "price": 2299,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/733254-9268089.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -414,7 +414,7 @@
     },
     {
       "id": 79,
-      "name": "American Eagle Women Green Long-Sleeve Henley T-Shirt",
+      "title": "American Eagle Women Green Long-Sleeve Henley T-Shirt",
       "price": 2699,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/770612-8864333.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -423,43 +423,27 @@
     },
     {
       "id": 78,
-      "name": "American Eagle Women Black Flutter Sleeve Tee",
+      "title": "American Eagle Women Black Flutter Sleeve Tee",
       "price": 1299,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/753768-8544981.jpg?w=291&auto=format",
       "type": "tshirt",
       "category": "womens",
       "brand": "Puma"
     },
-    {
-      "id": 77,
-      "name": "American Eagle Women Blue Polo Shirt",
-      "price": 1799,
-      "image_front": "https://imagescdn.aeo.in/img/app/product/7/721647-8325647.jpg?w=291&auto=format",
-      "type": "tshirt",
-      "category": "womens",
-      "brand": "Puma"
-    },
+    
     {
       "id": 76,
-      "name": "American Eagle Women Pink Polo Shirt",
+      "title": "American Eagle Women Pink Polo Shirt",
       "price": 1799,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/721656-8371228.jpg?w=291&auto=format",
       "type": "tshirt",
       "category": "womens",
       "brand": "Puma"
     },
-    {
-      "id": 75,
-      "name": "American Eagle Women Blue Oversized Dip-Dye True Tee",
-      "price": 1799,
-      "image_front": "https://imagescdn.aeo.in/img/app/product/7/753765-9593436.jpg?w=291&auto=format",
-      "type": "tshirt",
-      "category": "womens",
-      "brand": "Puma"
-    },
+    
     {
       "id": 74,
-      "name": "American Eagle Women Black Cropped Soft & Sexy T-Shirt",
+      "title": "American Eagle Women Black Cropped Soft & Sexy T-Shirt",
       "price": 1599,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/753763-8667067.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -544,7 +528,7 @@
     },
     {
       "id": 73,
-      "name": "American Eagle Women Pink Plush Hoodie",
+      "title": "American Eagle Women Pink Plush Hoodie",
       "price": 2499,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/755502-9378917.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -553,7 +537,7 @@
     },
     {
       "id": 74,
-      "name": "American Eagle Women Black Long-Sleeve Plush Mock Neck Shirt",
+      "title": "American Eagle Women Black Long-Sleeve Plush Mock Neck Shirt",
       "price": 1699,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/731129-9378840.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -562,7 +546,7 @@
     },
     {
       "id": 88,
-      "name": "American Eagle Women pink Long-Sleeve Plush Mock Neck Shirt",
+      "title": "American Eagle Women pink Long-Sleeve Plush Mock Neck Shirt",
       "price": 1699,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/736517-9309462.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -571,7 +555,7 @@
     },
     {
       "id": 87,
-      "name": "American Eagle Women Green Long-Sleeve Plush Mock Neck Shirt",
+      "title": "American Eagle Women Green Long-Sleeve Plush Mock Neck Shirt",
       "price": 1699,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/736464-9309440.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -580,7 +564,7 @@
     },
     {
       "id": 86,
-      "name": "American Eagle Women White Flutter Sleeve Tee",
+      "title": "American Eagle Women White Flutter Sleeve Tee",
       "price": 1299,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/753769-8667076.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -589,7 +573,7 @@
     },
     {
       "id": 85,
-      "name": "American Eagle Women White Puff-Sleeve Tee",
+      "title": "American Eagle Women White Puff-Sleeve Tee",
       "price": 1599,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/703622-7951294.jpg?w=291&auto=format",
       "type": "tshirt",
@@ -598,12 +582,29 @@
     },
     {
       "id": 84,
-      "name": "American Eagle Women Green Polo Shirt",
+      "title": "American Eagle Women Green Polo Shirt",
       "price": 1799,
       "image_front": "https://imagescdn.aeo.in/img/app/product/7/721643-8371219.jpg?w=291&auto=format",
       "type": "tshirt",
       "category": "womens",
       "brand": "Adidas"
+    },{
+      "id": 77,
+      "title": "American Eagle Women Blue Polo Shirt",
+      "price": 1799,
+      "image_front": "https://imagescdn.aeo.in/img/app/product/7/721647-8325647.jpg?w=291&auto=format",
+      "type": "tshirt",
+      "category": "womens",
+      "brand": "Puma"
+    },
+    {
+      "id": 75,
+      "title": "American Eagle Women Blue Oversized Dip-Dye True Tee",
+      "price": 1799,
+      "image_front": "https://imagescdn.aeo.in/img/app/product/7/753765-9593436.jpg?w=291&auto=format",
+      "type": "tshirt",
+      "category": "womens",
+      "brand": "Puma"
     }
   ],
   "user": [
