@@ -232,28 +232,6 @@
       "category": "mens"
       },
       {
-      "id": 22,
-      "hreftag": "https://www.aeo.in/product/american-eagle-men-black-deep-space-6-inches-flex-boxer-brief-862571.html",
-      "image_front": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-      "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-      "title": "American Eagle Men Black Deep Space 6 Inches Flex Boxer Brief",
-      "price": 799,
-      "type": "short",
-      "brand": "Adidas",
-      "category": "mens"
-      },
-      {
-        "id": 23,
-        "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
-        "image_front": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-        "image_reverse": "https://imagescdn.aeo.in/img/app/others/img1x1.png",
-        "title": "American Eagle Men Grey 24/7 Good Vibes Long-Sleeve Graphic T-Shirt",
-        "price": 1999,
-        "type": "tshirt",
-        "brand": "Puma",
-        "category": "mens"
-      },
-      {
       "id": 24,
       "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
       "image_front": "https://static.nike.com/a/images/t_default/e839f55c-84d5-4030-9bcf-644e6a6463ea/revolution-6-running-shoes-5k6Jh6.png",
@@ -263,16 +241,6 @@
       "brand": "Nike",
       "category": "mens"
       },
-      {
-        "id": 25,
-        "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
-        "image_front": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "title": "American Eagle Men Red AirFlex+ 9 Inches Shoes",
-        "price": 6999,
-        "type": "shoes",
-        "brand": "Nike",
-        "category": "mens"
-        },
         {
           "id": 26,
           "hreftag": "https://www.aeo.in/product/american-eagle-men-blue-airflex-9-inches-denim-short-862007.html",
@@ -284,31 +252,11 @@
           "category": "mens"
         },
         {
-          "id": 27,
-          "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
-          "image_front": "https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg",
-          "title": "American Eagle Men Blue AirFlex+ 9 Inches Shoes",
-          "price": 3999,
-          "type": "shoes",
-          "brand": "Puma",
-          "category": "mens"
-        },
-        {
           "id": 28,
           "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
           "image_front": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61D8gunwafL._UL1100_.jpg",
           "title": "American Eagle Men Grey AirFlex+ 9 Inches Shoes",
           "price": 4999,
-          "type": "shoes",
-          "brand": "Campus",
-          "category": "mens"
-        },
-        {
-          "id": 29,
-          "hreftag": "https://www.aeo.in/product/american-eagle-men-grey-247-good-vibes-long-sleeve-graphic-t-shirt-861464.html",
-          "image_front": "https://www.rei.com/dam/content_team_010818_52427_htc_running_shoes_hero2_lg.jpg?t=ea16by9xs",
-          "title": "American Eagle Men Red AirFlex+ 9 Inches Shoes",
-          "price": 5999,
           "type": "shoes",
           "brand": "Campus",
           "category": "mens"
